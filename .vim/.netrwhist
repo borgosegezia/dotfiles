@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/annalaura/HARDDISK/cloaka/tiktok/com.zhiliaoapp.musically/base'
+let g:netrw_dirhist_8='/home/annalaura/cloaka/scripts/com.zhiliaoapp.musically/base/smali_classes18/Y'
+let g:netrw_dirhist_7='/home/annalaura/cloaka/scripts/com.zhiliaoapp.musically/base/smali_classes18'
+let g:netrw_dirhist_6='/home/annalaura/TSO/appiumfuncs'
+let g:netrw_dirhist_5='/home/annalaura/uploadertiktok'
+let g:netrw_dirhist_4='/home/annalaura/Appium/autoktono'
+let g:netrw_dirhist_3='/srv/cgi-bin'
+let g:netrw_dirhist_2='/home/annalaura/sososo-dev/sososoweb/templates'
+let g:netrw_dirhist_1='/etc/udev/rules.d'
